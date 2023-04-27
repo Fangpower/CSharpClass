@@ -1,0 +1,8 @@
+Circle,Yellow,-3.0
+Circle,Red,2.5
+Rectangle,Blue,3.5,4.5
+Rectangle,Red,-3.5,-5.1
+Circle,Gray,2.1
+Rectangle,Orange,4.0,-4.0
+Rectangle,Black,-2.0,4.0
+Rectangle,Dark Purple,5.0,4.0

@@ -1,0 +1,106 @@
+County,Seat,Population
+Allen,Iola,12369
+Anderson,Garnett,7858
+Atchison,Atchison,16073
+Barber,Medicine Lodge,4427
+Barton,Great Bend,25779
+Bourbon,Fort Scott,14534
+Brown,Hiawatha,9564
+Butler,El Dorado,66911
+Chase,Cottonwood Falls,2648
+Chautauqua,Sedan,3250
+Cherokee,Columbus,19939
+Cheyenne,St. Francis,2657
+Clark,Ashland,1994
+Clay,Clay Center,8002
+Cloud,Concordia,8786
+Coffey,Burlington,8179
+Comanche,Coldwater,1700
+Cowley,Winfield,34908
+Crawford,Girard,38818
+Decatur,Oberlin,2827
+Dickinson,Abilene,18466
+Doniphan,Troy,7600
+Douglas,Lawrence,122259
+Edwards,Kinsley,2798
+Elk,Howard,2530
+Ellis,Hays,28553
+Ellsworth,Ellsworth,6102
+Finney,Garden City,36467
+Ford,Dodge City,33619
+Franklin,Ottawa,25544
+Geary,Junction City,31670
+Gove,Gove,2636
+Graham,Hill City,2482
+Grant,Ulysses,7150
+Gray,Cimarron,5988
+Greeley,Tribune,1232
+Greenwood,Eureka,5982
+Hamilton,Syracuse,2539
+Harper,Anthony,5436
+Harvey,Newton,34429
+Haskell,Sublette,3968
+Hodgeman,Jetmore,1794
+Jackson,Holton,13171
+Jefferson,Oskaloosa,19043
+Jewell,Mankato,2879
+Johnson,Olathe,602401
+Kearny,Lakin,3838
+Kingman,Kingman,7152
+Kiowa,Greensburg,2475
+Labette,Oswego,19618
+Lane,Dighton,1535
+Leavenworth,Leavenworth,81758
+Lincoln,Lincoln,2962
+Linn,Mound City,9703
+Logan,Oakley,2794
+Lyon,Emporia,33195
+Marion,Marion,28542
+Marshall,Marysville,11884
+McPherson,McPherson,9707
+Meade,Meade,4033
+Miami,Paola,34237
+Mitchell,Beloit,5979
+Montgomery,Independence,31829
+Morris,Council Grove,5620
+Morton,Elkhart,2587
+Nemaha,Seneca,10231
+Neosho,Erie,16007
+Ness,Ness City,2750
+Norton,Norton,5361
+Osage,Lyndon,15949
+Osborne,Osborne,3421
+Ottawa,Minneapolis,5704
+Pawnee,Larned,6414
+Phillips,Phillipsburg,5234
+Pottawatomie,Westmoreland,24383
+Pratt,Pratt,9164
+Rawlins,Atwood,2530
+Reno,Hutchinson,61998
+Republic,Belleville,4636
+Rice,Lyons,9537
+Riley,Manhattan,74232
+Rooks,Stockton,4920
+Rush,LaCrosse,3036
+Russell,Russell,6856
+Saline,Salina,54224
+Scott,Scott City,4823
+Sedgwick,Wichita,516042
+Seward,Liberal,21428
+Shawnee,Topeka,176875
+Sheridan,Hoxie,2521
+Sherman,Goodland,5917
+Smith,Smith Center,3583
+Stafford,St. John,4156
+Stanton,Johnson City,2006
+Stevens,Hugoton,5485
+Sumner,Wellington,22836
+Thomas,Colby,7777
+Trego,WaKeeney,2803
+Wabaunsee,Alma,6931
+Wallace,Sharon Springs,1518
+Washington,Washington,5406
+Wichita,Leoti,2119
+Wilson,Fredonia,8525
+Woodson,Yates Center,3138
+Wyandotte,Kansas City,165429

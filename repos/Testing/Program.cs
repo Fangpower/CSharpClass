@@ -1,6 +1,6 @@
-﻿
-int limit = 3;
-for (int i = 1, sum = 0; i <= limit; ++i) {
-    sum += i;
-    Console.WriteLine($"sum: {sum}");
-}
+﻿int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+var oddValues =
+  from num in numbers
+  where num % 2 != 0
+  select num;
+Console.WriteLine(oddValues.Any());
